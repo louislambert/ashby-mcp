@@ -1,5 +1,5 @@
 # /// script
-# dependencies = ["mcp>=1.27", "httpx>=0.27"]
+# dependencies = ["mcp>=1.27 ,<2", "httpx>=0.27"]
 # requires-python = ">=3.11"
 # ///
 """Ashby MCP Server v2 — rebuilt from scratch with correct API contracts."""
